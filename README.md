@@ -1,0 +1,2 @@
+# Arweave-Ancestry
+The Arweave blockchain provides users with the potential to produce a fully decentralised, secure, permanent, ledger based ancestral family tree. Using Arweaves Permaweb eco-system, users will be able to store vital information for family members and past ancestors which could include achievements, unique memories, official documents and images. Having somewhere to collaboratively group this information provides users with personal control and 24/7 access, eliminating costly monthly fees, subscriptions and the unreliability of centralised servers.
